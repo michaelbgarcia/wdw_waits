@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+data
+disneywaittimes_etl.log
+get_waits_cronjob.log
