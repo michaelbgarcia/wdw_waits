@@ -1,0 +1,27 @@
+{
+    "id": "6E8CA4C9",
+    "path": "~/R Projects/dw_wait_times/init.R",
+    "project_path": "init.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1736719656577.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,0",
+        "scrollLine": "11"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1736728312,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1736728312778,
+    "read_only": false,
+    "read_only_alternatives": []
+}
